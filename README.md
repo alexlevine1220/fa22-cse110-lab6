@@ -1,1 +1,1 @@
-# fa22-cse110-lab6
+# Lab 6 - Starter
